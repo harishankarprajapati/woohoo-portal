@@ -1,0 +1,157 @@
+/* -------1920--------- */
+
+@media only screen and (min-width:1920px) {
+
+  .container-fluid {
+    width: 1903px;
+    margin: auto;
+  }
+
+
+}
+
+
+@media only screen and (max-width:1024px) {
+}
+
+@media only screen and (max-width:999px) {
+
+}
+
+
+@media only screen and (max-width:768px) {
+.seccmetehadd{
+  display: none !important;
+}
+  .sectogalbg{
+    display: none;
+  }
+  .hero h1 {
+    font-size: 27px;
+    font-weight: bold;
+    width: 100% !important;
+}
+.secallmenibg {
+    padding-top: 33px;
+}
+.haderherobg {
+    padding: 0;
+}
+.secfitextpl h4 {
+    font-size: 25px;
+    margin-right: 0px;
+}
+.secnameanitext {
+    font-size: 55px;
+}
+.secbst {
+    margin-top: 10px;
+    font-size: 15px;
+}
+button.navbar-toggler {
+  background-color: #d4ff00;
+  border: 1px solid #444;
+  color: black;
+  padding: 6px 10px;
+  font-weight: bold;
+  margin-left: 10px;
+  border-radius: 0;
+  font-size: 40px;
+}
+.offcanvas-header {
+    background: #000;
+}
+div#navbarOffcanvas {
+    background: #000000c5;
+}
+.navbar-nav{
+    margin: 0;
+}
+.headermenusec{
+  padding-left: 0px !important;
+  font-size: 20px;
+}
+
+.seclogow {
+    width: 50%;
+}
+img.marimgsec {
+    width: 25px;
+}
+.martext2 , .martext {
+    font-size: 18px;
+}
+.maeqsec1 {
+    display: none;
+}
+.secover {
+    padding: 70px 0px 60px 0px;
+}
+.secplaetext {
+    text-align: center;
+    font-family: 'Plateia';
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+.secimgbest{
+  display: none;
+}
+.secfitextpl h6{
+    padding-top: 0px;
+    font-size: 16px;
+ }
+ .secexpbgtext h5 {
+  text-align: start;
+ }
+ .sechesexp {
+    display: flex;
+    justify-content: flex-start;
+    padding-bottom: 20px;
+}
+    .bckgsec {
+        padding: 14px 50px;
+    }
+    .secblogdate h4 {
+    top: 36%;
+    right: -43px;
+    }
+.secrevbg h5 {
+    font-size: 13px;
+}
+.secbloghead h3 {
+    font-size: 17px;
+
+}
+.secallbg{
+    padding-top: 30px;
+ }
+ .row.secrev {
+    display: flex;
+    flex-direction: column-reverse;
+}
+.secpritexr {
+    text-align: center;
+    padding-bottom: 20px;
+}
+.secopy {
+    text-align: center;
+    padding-top: 20px;
+}
+.secclasshesdtext {
+    font-family: 'Plateia';
+    font-size: 24px;
+ }
+}
+
+@media only screen and (max-width:430px) {
+ 
+}
+
+@media only screen and (max-width:380px) {
+ 
+}
+
+
+@media only screen and (max-width:320px) {
+ 
+}
